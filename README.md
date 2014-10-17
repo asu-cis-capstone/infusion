@@ -1,9 +1,8 @@
 # security-compliance-metrics v0.4	
-===========================
 
 ## Security Compliance Metrics and Reporting Tool
 
-### User Stories
+#### User Stories
    1. As security compliance specialist, I want to compare security BSIMM model version, so that we can track our progress 
    2. As an admin, I want to have a list of BSIMM initiatives, so that I can manage for the organization
    3. As an admin, I want to be able to adjust names and descriptions for each initiative while keeping the association with the bsimm initiative 
@@ -11,7 +10,7 @@
    5. As an activity owner I want to be able to schedule when an activity is updated
    6. As an activity owner I want to be able to manual override what the metric results 
 
-### Meeting Plan
+#### Meeting Plan
 	Weekly Scrum (instead of daily scrum, we think weekly scrum would be more realistic)
 	  - Date: every Tuesday
 	  - Time: 12 pm
@@ -25,19 +24,19 @@
 	  - Attendees: student team, Mike and Perry
 	  - Location: InfusionSoft
 	  
-### Scrum Tool 
+#### Scrum Tool 
 	We will be using Rally to keep track of our groups progress, user stories, burndowns, and member tasks 
 	
 
 =============================
 ## CHANGE LOG
-### Version .2
+#### Version .2
 - Set up Hello World under Example Package name
 - Added in Domain Objects and classes under com.infusionsoft Package 
 - Setup Rally for each member
 - Defined in Rally Tasks for this sprint
 
-### Version .3
+#### Version .3
 - Added in Radar chart and configured all the side data
 - set it up as a view and setup a controller to display the view
 - Installed plugin for database communications, database-migration 1.4.0
@@ -50,7 +49,7 @@ pointing around to different files(What grails is good for)
 This is what our application looks like: 
 ![Radar Chart](http://i.imgur.com/joePrD3.png)
 
-### Version .4
+#### Version .4
 - Created initiatives, initiatives page and activity controllers controller
 - Created initiatives, initiatives page and activity controllers views
 - updated CSS style sheet
