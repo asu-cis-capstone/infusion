@@ -32,16 +32,16 @@ Scrum Tool
 =============================
 CHANGE LOG
 Version .2
--Set up Hello World under Example Package name
--Added in Domain Objects and classes under com.infusionsoft Package 
--Setup Rally for each member
--Defined in Rally Tasks for this sprint
+- Set up Hello World under Example Package name
+- Added in Domain Objects and classes under com.infusionsoft Package 
+- Setup Rally for each member
+- Defined in Rally Tasks for this sprint
 
 Version .3
--Added in Radar chart and configured all the side data
--set it up as a view and setup a controller to display the view
--Installed plugin for database communications, database-migration 1.4.0
--Finished setting up Rally to work, so for the next sprint we will have working burndown charts
+- Added in Radar chart and configured all the side data
+- set it up as a view and setup a controller to display the view
+- Installed plugin for database communications, database-migration 1.4.0
+- Finished setting up Rally to work, so for the next sprint we will have working burndown charts
 
 The Radar chart is a predefined object in javascript which we implemented in our view portion of the
 model/view/controller format. We wrote it inline in html using script tags so there was less issues 
@@ -49,3 +49,9 @@ pointing around to different files(What grails is good for)
 
 This is what our application looks like: 
 ![Radar Chart](http://i.imgur.com/joePrD3.png)
+
+Version .4
+- Created initiatives, initiatives page and activity controllers controller
+- Created initiatives, initiatives page and activity controllers views
+- updated CSS style sheet
+- added temporary url links 
