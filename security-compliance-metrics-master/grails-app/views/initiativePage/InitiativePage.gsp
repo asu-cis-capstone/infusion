@@ -17,9 +17,8 @@ a controller for each initiative(still unsure of this)
 </head>
 <body>
 <br /> 
- 	<p>Initiative</p>
- 	
- 		<form id="IniativePageForm" action="../confirm.html" method="get">
+ 		<form id="InitiativePageForm" action="../confirm.html" method="get">
+ 		<p class="sh2">Initiative</p>
 			<p class="fh1"></p>
 			<p>
 				<!-- name -->
@@ -42,11 +41,11 @@ a controller for each initiative(still unsure of this)
 		</form>
  	
  	<p> </p>
-		<div id="Activity Links">
+		<div id="ActivityLinks">
 			<br />	
 			<p class="sh2">Activity Links</p>
 			<p> </p>
-			<p><a href=""
+			<p><a href="http://localhost:8080/security-compliance-metrics/activity/index"
 			onclick="window.open(this.href); return false;">CP1.1 - Unify Regulatory Pressures</a></p>
 			<br /> 
 			<p><a href=""

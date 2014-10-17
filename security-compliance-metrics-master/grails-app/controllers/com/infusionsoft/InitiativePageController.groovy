@@ -1,4 +1,4 @@
-package security.compliance.metrics
+package com.infusionsoft
 
 class InitiativePageController {
 

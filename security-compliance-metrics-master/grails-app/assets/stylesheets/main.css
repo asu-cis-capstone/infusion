@@ -51,6 +51,38 @@ body {
 	background-color: #abbf78;
 }
 
+#ActivityLinks{
+	width:				80%;	
+	margin:				auto;
+	margin-top:			5px;
+	padding-left:		5px;
+}
+
+#InitiativeLinks{
+	width:				80%;	
+	margin:				auto;
+	margin-top:			5px;
+	padding-left:		5px;
+}
+
+#InitiativePageForm{
+	width:				80%;	
+	margin:				auto;
+	border:				thin solid #119911;
+	margin-top:			5px;
+	padding-left:		5px;
+	background-color:	#e1e1e1;
+}
+
+#ActivityPageForm{
+	width:				80%;	
+	margin:				auto;
+	border:				thin solid #119911;
+	margin-top:			5px;
+	padding-left:		5px;
+	background-color:	#e1e1e1;
+}
+
 /* replace with .no-boxshadow body if you have modernizr available */
 .ie6 body,
 .ie7 body,
