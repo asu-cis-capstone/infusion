@@ -37,7 +37,7 @@
             <div class="nav-collapse">
                 
                 <ul class="nav pull-right">
-                <!-- 
+                 <!-- 
                     <sec:ifAllGranted roles="ROLE_ADMIN">
                         <li><g:link controller="manageUsers">Manage Users</g:link></li>
                     </sec:ifAllGranted>
@@ -47,7 +47,7 @@
                     <sec:ifNotLoggedIn>
                         <li><g:link controller="Login">Login</g:link></li>
                     </sec:ifNotLoggedIn>
-                    -->
+                  --> 
                 </ul>
             </div>
         </div>
