@@ -54,3 +54,8 @@ This is what our application looks like:
 - Created initiatives, initiatives page and activity controllers views
 - updated CSS style sheet
 - added temporary url links 
+
+#### Version .5
+- Created database for our project
+- Database includes Users, Initiatives, Activities, and a bridge entity, owners (connects users and activities)
+- Tried to figure out how to combine the database with our project in Grails, will have to continue researching this
