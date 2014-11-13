@@ -15,43 +15,43 @@ from here the user selects which Initiative they would like to view and edit
 <body>
 <br /> 
 		<div id="InitiativeLinks">
-			<p class="h2">Initiative Links</p>
-			<p> </p>
-			<p><a href="http://localhost:8080/security-compliance-metrics/initiativePage/index"
-			onclick="window.open(this.href); return false;">Strategy and Metrics</a></p>
+			<p class="h2"><b>Initiative Links</b></p>
+			<br/>
+			<p><a href="../InitiativePage/StrategyAndMetrics"
+			>Strategy and Metrics</a></p>
 			<br /> 
-			<p><a href="http://localhost:8080/security-compliance-metrics/initiativePage/index"
-			onclick="window.open(this.href); return false;">Compliance and Policy</a></p>
+			<p><a href="../InitiativePage/index"
+			>Compliance and Policy</a></p>
 			<br /> 
-			<p><a href="http://localhost:8080/security-compliance-metrics/initiativePage/index"
-			onclick="window.open(this.href); return false;">Training</a></p>
+			<p><a href="../InitiativePage/index"
+			>Training</a></p>
 			<br /> 
-			<p><a href="http://localhost:8080/security-compliance-metrics/initiativePage/index"
-			onclick="window.open(this.href); return false;">Attack Models</a></p>
+			<p><a href="../InitiativePage/index"
+			>Attack Models</a></p>
 			<br /> 
-			<p><a href="http://localhost:8080/security-compliance-metrics/initiativePage/index"
-			onclick="window.open(this.href); return false;">Security Features and Design</a></p>
+			<p><a href="../InitiativePage/index"
+			>Security Features and Design</a></p>
 			<br /> 
-			<p><a href="http://localhost:8080/security-compliance-metrics/initiativePage/index"
-			onclick="window.open(this.href); return false;">Standards and Requirements</a></p>
+			<p><a href="../InitiativePage/index"
+			>Standards and Requirements</a></p>
 			<br /> 
-			<p><a href="http://localhost:8080/security-compliance-metrics/initiativePage/index"
-			onclick="window.open(this.href); return false;">Architecture Analysis</a></p>
+			<p><a href="../InitiativePage/index"
+			>Architecture Analysis</a></p>
 			<br /> 
-			<p><a href="http://localhost:8080/security-compliance-metrics/initiativePage/index"
-			onclick="window.open(this.href); return false;">Code Review</a></p>
+			<p><a href="../InitiativePage/index"
+			>Code Review</a></p>
 			<br /> 
-			<p><a href="http://localhost:8080/security-compliance-metrics/initiativePage/index"
-			onclick="window.open(this.href); return false;">Security Testing</a></p>
+			<p><a href="../InitiativePage/index"
+			>Security Testing</a></p>
 			<br /> 
-			<p><a href="http://localhost:8080/security-compliance-metrics/initiativePage/index"
-			onclick="window.open(this.href); return false;">Penetration Testing</a></p>
+			<p><a href="../InitiativePage/index"
+			>Penetration Testing</a></p>
 			<br /> 
-			<p><a href="http://localhost:8080/security-compliance-metrics/initiativePage/index"
-			onclick="window.open(this.href); return false;">Software Environment</a></p>
+			<p><a href="../InitiativePage/index"
+			>Software Environment</a></p>
 			<br /> 
-			<p><a href="http://localhost:8080/security-compliance-metrics/initiativePage/index"
-			onclick="window.open(this.href); return false;">Configuration Management and Vulnerability Management </a></p>
+			<p><a href="../InitiativePage/index"
+			>Configuration Management and Vulnerability Management </a></p>
 			<br /> 
 		</div>
  	

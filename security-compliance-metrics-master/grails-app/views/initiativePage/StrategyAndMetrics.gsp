@@ -22,16 +22,17 @@ a controller for each initiative(still unsure of this)
 			<p class="fh1"></p>
 			<p>
 				<!-- name -->
-				<label for="name">Name:</label>
-				<input type="text" id="name" name="name" />
+				<label for="name">Name: </label>
+				<input type="text" id="name" name="name" placeholder="Strategy and Metrics" />
 				<br /> 
 				<!-- shortName-->
 				<label for="shortName">Short Name:</label>
-				<input type="text" id="shortName" name="shortName" />
+				<input type="text" id="shortName" name="shortName" placeholder="Strategy & Metrics"/>
 				<br /> 
 				<!-- Description -->
 				<label for="description">Description:</label>
-				<input type="text" id="description" name="description" />			
+				<!--  <textarea id="description" rows="400" cols="50" name="description" placeholder="Planning, assigning roles and responsibilities, identifying software security goals etc..."></textarea>	-->
+				<g:textArea name="description" placeholder="Planning, assigning roles and responsibilities, identifying software security goals etc..." rows="5" cols="400"/>	
 			</p>
 			
 			<p class="save">
@@ -45,7 +46,7 @@ a controller for each initiative(still unsure of this)
 			<br />	
 			<p class="sh2"><b>Activity Links</b></p>
 			<br/>
-			<p><a href="../activity/index">CP1.1 - Unify Regulatory Pressures</a></p>
+			<p><a href="../activity/CP1_1">CP1.1 - Unify Regulatory Pressures</a></p>
 			<br /> 
 			<p><a href="../activity/index"
 			>CP1.2 - Identify P11 obligations</a></p>

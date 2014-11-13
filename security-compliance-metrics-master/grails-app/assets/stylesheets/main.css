@@ -169,6 +169,8 @@ img {
 .nav {
 	background-color: #efefef;
 	padding: 0.5em 0.75em;
+	height:			25px;
+	margin-top:		10px;
 	   -moz-box-shadow: 0 0 3px 1px #aaaaaa;
 	-webkit-box-shadow: 0 0 3px 1px #aaaaaa;
 	        box-shadow: 0 0 3px 1px #aaaaaa;
@@ -626,3 +628,16 @@ a.skip {
 	position: absolute;
 	left: -9999px;
 }
+
+.thelogo
+{
+	padding-left:		20px;
+	padding-top:		5px;
+}
+
+#description
+{
+	width:		750px;	
+	resize:		none;
+}
+

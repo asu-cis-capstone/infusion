@@ -22,7 +22,7 @@
     <div class="navbar-inner">
         <div class="container">
 
-            <div id="infusionsoft-logo">
+            <div id="infusionsoft-logo" class="thelogo">
                 <a id=""><g:img dir="images" file="logo.png"/></a>
 
                 <div class="appName">Security Compliance Reporting</div>
@@ -37,17 +37,11 @@
             <div class="nav-collapse">
                 
                 <ul class="nav pull-right">
-                 <!-- 
-                    <sec:ifAllGranted roles="ROLE_ADMIN">
-                        <li><g:link controller="manageUsers">Manage Users</g:link></li>
-                    </sec:ifAllGranted>
-                    <sec:ifLoggedIn>
-                        <li><g:link controller="Logout">Logout</g:link></li>
-                    </sec:ifLoggedIn>
-                    <sec:ifNotLoggedIn>
-                        <li><g:link controller="Login">Login</g:link></li>
-                    </sec:ifNotLoggedIn>
-                  --> 
+                 
+                        <li><a href="../Chart/index">Chart</a></li>
+                        <li><a href="../Initiative/index">Initiatives</a></li>
+                    
+                  
                 </ul>
             </div>
         </div>

@@ -13,12 +13,12 @@
 			<p>
 				<!-- name -->
 				<br><label for="name">Name</label><br />
-				<input type="text" id="name" name="name" />
+				<input type="text" id="name" name="name" placeholder="Unify Regulatory Pressures"/>
 				<br/>
 				
 				<!-- description -->
 				<br><label for="description">Description</label><br />
-				<input type="text" id="description" name="description" />
+				<g:textArea name="description" placeholder="If the business or its customers are subject to regulatory or compliance drivers such as FFIEC, GLBA, OCC, PCI DSS, SOX, HIPAA or others, the SSG acts as a focal point for understanding the constraints such drivers impose on software." rows="5" cols="400"/>
 				<br/> 
 				
 				<!-- level -->				
@@ -41,19 +41,20 @@
 				</select>
 				<br />
 				
-				<!-- code expression -->
+				<!-- cron expression 
 				<br><label for="codeexp">Code Expression</label><br />
 				<input type="text" id="codeexp" name="codeexp" />
 				<br />
+				-->
 				
 				<!-- metrics request URL -->
 				<br><label for="url">Metrics Request URL</label><br />
-				<input type="text" id="url" name="url" />				
+				<input type="text" id="url" name="url" placeholder="www.infusionsoft.com"/>				
 				<br /> 		
 				
 				<!-- metrics request -->
 				<br><label for="url">Metrics Request (%)</label><br />
-				<input type="text" id="result" name="result" />
+				<input type="text" id="result" name="result" placeholder="90%" />
 				<br />	
 				
 				<!-- manual override value -->
