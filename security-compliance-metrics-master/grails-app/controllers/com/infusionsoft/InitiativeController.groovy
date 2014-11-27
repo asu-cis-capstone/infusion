@@ -5,7 +5,7 @@ class InitiativeController {
     def index() { 
 		render view: "Initiative"
 	}
-	def test() {
+	/*def test() {
 		render view: "StrategyAndMetrics"
-	}
+	}*/
 }
