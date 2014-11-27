@@ -73,5 +73,5 @@ This is what our application looks like:
 ####Version .6
 - Updated tests with results
 - Enhanced CCS style sheets
-- Modified HTML pages and added hyperlinks that allow user navigate between chart, initiatives and activity pages. 
+- Modified HTML pages and added hyperlinks that allow user navigate between chart, initiatives and activity pages 
 
