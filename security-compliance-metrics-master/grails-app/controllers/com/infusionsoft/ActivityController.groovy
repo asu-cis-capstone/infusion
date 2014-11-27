@@ -56,4 +56,49 @@ class ActivityController {
 	def PT3_2() {
 		render view: "PT3_2"
 	}
+	def CMVM1_1() {
+		render view: "CMVM1_1"
+	}
+	def CMVM1_2() {
+		render view: "CMVM1_2"
+	}
+	def CMVM2_1() {
+		render view: "CMVM2_1"
+	}
+	def CMVM2_2() {
+		render view: "CMVM2_2"
+	}
+	def CMVM2_3() {
+		render view: "CMVM2_3"
+	}
+	def CMVM3_1() {
+		render view: "CMVM3_1"
+	}
+	def CMVM3_2() {
+		render view: "CMVM3_2"
+	}
+	def CMVM3_3() {
+		render view: "CMVM3_3"
+	}
+	def CMVM3_4() {
+		render view: "CMVM3_3"
+	}
+	def SE1_1() {
+		render view: "SE1_1"
+	}
+	def SE1_2() {
+		render view: "SE1_2"
+	}
+	def SE2_2() {
+		render view: "SE2_2"
+	}
+	def SE2_4() {
+		render view: "SE2_4"
+	}
+	def SE3_2() {
+		render view: "SE3_2"
+	}
+	def SE3_3() {
+		render view: "SE3_3"
+	}
 }

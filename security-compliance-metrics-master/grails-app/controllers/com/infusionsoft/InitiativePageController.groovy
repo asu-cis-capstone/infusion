@@ -14,4 +14,10 @@ class InitiativePageController {
 	def PenetrationTesting() {
 		render view: "PenetrationTesting"
 	}
+	def SoftwareEnvironment() {
+		render view: "SoftwareEnvironment"
+	}
+	def ConfigurationManagement() {
+		render view: "ConfigurationManagement"
+	}
 }
