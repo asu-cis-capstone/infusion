@@ -280,4 +280,42 @@ class ActivityController {
 		render view: "AA1_1"
 	}
 	
+	
+	
+	
+	def CR1_1() {
+		render view: "CR1_1"
+	}
+	def CR1_2() {
+		render view: "CR1_2"
+	}
+	def CR1_4() {
+		render view: "CR1_4"
+	}
+	def CR1_5() {
+		render view: "CR1_5"
+	}
+	def CR1_6() {
+		render view: "CR1_6"
+	}
+	def CR2_2() {
+		render view: "CR2_2"
+	}
+	def CR2_5() {
+		render view: "CR2_5"
+	}
+	def CR2_6() {
+		render view: "CR2_6"
+	}
+	def CR3_2() {
+		render view: "CR3_2"
+	}
+	def CR3_3() {
+		render view: "CR3_3"
+	}
+	def CR3_4() {
+		render view: "CR3_4"
+	}
+	
+	
 }
