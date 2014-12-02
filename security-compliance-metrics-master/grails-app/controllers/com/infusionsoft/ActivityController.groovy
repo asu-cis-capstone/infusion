@@ -248,4 +248,36 @@ class ActivityController {
 	def SE3_3() {
 		render view: "SE3_3"
 	}
+	
+	
+	
+	
+	def AA1_1() {
+		render view: "AA1_1"
+	}
+	def AA1_2() {
+		render view: "AA1_1"
+	}
+	def AA1_3() {
+		render view: "AA1_1"
+	}
+	def AA1_4() {
+		render view: "AA1_1"
+	}
+	def AA2_1() {
+		render view: "AA1_1"
+	}
+	def AA2_2() {
+		render view: "AA1_1"
+	}
+	def AA2_3() {
+		render view: "AA1_1"
+	}
+	def AA3_1() {
+		render view: "AA1_1"
+	}
+	def AA3_2() {
+		render view: "AA1_1"
+	}
+	
 }
