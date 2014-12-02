@@ -35,7 +35,7 @@ from here the user selects which Initiative they would like to view and edit
 			<p><a href="../InitiativePage/index"
 			>Standards and Requirements</a></p>
 			<br /> 
-			<p><a href="../InitiativePage/index"
+			<p><a href="../InitiativePage/ArchitectureAnalysis"
 			>Architecture Analysis</a></p>
 			<br /> 
 			<p><a href="../InitiativePage/index"
