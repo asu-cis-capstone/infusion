@@ -1,4 +1,4 @@
-# security-compliance-metrics v0.4	
+# security-compliance-metrics	
 
 ## Security Compliance Metrics and Reporting Tool
 
