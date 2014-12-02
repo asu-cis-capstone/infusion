@@ -23,15 +23,16 @@ a controller for each initiative(still unsure of this)
 			<p>
 				<!-- name -->
 				<label for="name">Name: </label>
-				<input type="text" id="name" name="name" placeholder="Architecture Analysis" />
+				<input type="text" id="name" name="name" placeholder="Code Review" />
 				<br /> 
 				<!-- shortName-->
 				<label for="shortName">Short Name:</label>
-				<input type="text" id="shortName" name="shortName" placeholder="Architecture Analysis"/>
+				<input type="text" id="shortName" name="shortName" placeholder="Code Review"/>
 				<br /> 
 				<!-- Description -->
 				<label for="description">Description:</label>
-				<g:textArea name="description" placeholder="The overall goal of the Architecture Analysis practice is quality control. Those performing architecture analysis must ensure the detection and correction of security flaws. Software architects must enforce adherence to standards and the reuse of approved security features." rows="5" cols="400"/>	
+				<g:textArea name="description" placeholder="Use of code review tools, development of customized rules, profiles for tool use by
+different roles, manual analysis, ranking/measuring results." rows="5" cols="400"/>	
 			</p>
 			
 			<p class="save">
