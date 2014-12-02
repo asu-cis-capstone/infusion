@@ -41,16 +41,16 @@ from here the user selects which Initiative they would like to view and edit
 			<p><a href="../InitiativePage/index"
 			>Code Review</a></p>
 			<br /> 
-			<p><a href="../InitiativePage/index"
+			<p><a href="../InitiativePage/SecurityTesting"
 			>Security Testing</a></p>
 			<br /> 
-			<p><a href="../InitiativePage/index"
+			<p><a href="../InitiativePage/PenetrationTesting"
 			>Penetration Testing</a></p>
 			<br /> 
-			<p><a href="../InitiativePage/index"
+			<p><a href="../InitiativePage/SoftwareEnvironment"
 			>Software Environment</a></p>
 			<br /> 
-			<p><a href="../InitiativePage/index"
+			<p><a href="../InitiativePage/ConfigurationManagement"
 			>Configuration Management and Vulnerability Management </a></p>
 			<br /> 
 		</div>

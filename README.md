@@ -55,7 +55,23 @@ This is what our application looks like:
 - updated CSS style sheet
 - added temporary url links 
 
+##### TO-DO
+- Created database in MySQL
+- Hook database to our web app
+- Update testing files
+
 #### Version .5
 - Created database for our project
 - Database includes Users, Initiatives, Activities, and a bridge entity, owners (connects users and activities)
 - Tried to figure out how to combine the database with our project in Grails, will have to continue researching this
+
+##### TO-DO
+- Continue on researching how to hook database to our project
+- Communicate with professor and client about next steps in project
+- Update testing files and record results
+
+####Version .6
+- Updated tests with results
+- Enhanced CCS style sheets
+- Modified HTML pages and added hyperlinks that allow user navigate between chart, initiatives and activity pages 
+
