@@ -13,12 +13,12 @@
 			<p>
 				<!-- name -->
 				<br><label for="name">Name</label><br />
-				<input type="text" id="name" name="name" placeholder="Understand compliance drivers"/>
+				<input type="text" id="name" name="name" placeholder="Understand the who of attacks"/>
 				<br/>
 				
 				<!-- description -->
 				<br><label for="description">Description</label><br />
-				<g:textArea name="description" placeholder="If the business or its customers are subject to regulatory or compliance drivers such as FFIEC, GLBA, OCC, PCI DSS, SOX, HIPAA or others, the SSG acts as a focal point for understanding the constraints such drivers impose on software. In some cases, the SSG creates a unified approach that removes redundancy from overlapping compliance requirements. A formal approach will map applicable portions of regulations to control statements explaining how the organization complies. As an alternative, existing business processes run by legal or other risk and compliance groups outside the SSG may also serve as the regulatory focal point. The goal of this activity is to create one set of software security guidance so that compliance work is completed as efficiently as possible (mostly by removing duplicates). Some firms move on to guide exposure by becoming directly involved in standards groups in order to influence the regulatory environment." rows="5" cols="400"/>
+				<g:textArea name="description" placeholder="Identify potential attackers. The SSG identifies potential attackers in order to understand their motivations and capabilities. The outcome of this exercise could be a set of attacker profiles including generic sketches for broad categories of attackers and more detailed descriptions for noteworthy individuals. In some cases, a third-party vendor may be contracted to provide this information. Specific and contextual attacker information is almost always more useful than generic information copied from someone else's list." rows="5" cols="400"/>
 				<br/> 
 				
 				<!-- level -->				

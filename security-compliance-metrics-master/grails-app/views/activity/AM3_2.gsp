@@ -13,12 +13,12 @@
 			<p>
 				<!-- name -->
 				<br><label for="name">Name</label><br />
-				<input type="text" id="name" name="name" placeholder="Understand compliance drivers"/>
+				<input type="text" id="name" name="name" placeholder="Get ahread of the attack curve"/>
 				<br/>
 				
 				<!-- description -->
 				<br><label for="description">Description</label><br />
-				<g:textArea name="description" placeholder="If the business or its customers are subject to regulatory or compliance drivers such as FFIEC, GLBA, OCC, PCI DSS, SOX, HIPAA or others, the SSG acts as a focal point for understanding the constraints such drivers impose on software. In some cases, the SSG creates a unified approach that removes redundancy from overlapping compliance requirements. A formal approach will map applicable portions of regulations to control statements explaining how the organization complies. As an alternative, existing business processes run by legal or other risk and compliance groups outside the SSG may also serve as the regulatory focal point. The goal of this activity is to create one set of software security guidance so that compliance work is completed as efficiently as possible (mostly by removing duplicates). Some firms move on to guide exposure by becoming directly involved in standards groups in order to influence the regulatory environment." rows="5" cols="400"/>
+				<g:textArea name="description" placeholder="Create and use automation to do what attackers will do. The SSG arms testers and auditors with automation to do what attackers are going to do. For example, a new attack method identified by the science team could require a new tool. The SSG packages the new tool and distributes it to testers. The idea here is to push attack capability past what typical commercial tools and offerings encompass and then package that information for others to use. Tailoring tools to a firm's particular technology stacks and potential attackers is a really good idea." rows="5" cols="400"/>
 				<br/> 
 				
 				<!-- level -->				

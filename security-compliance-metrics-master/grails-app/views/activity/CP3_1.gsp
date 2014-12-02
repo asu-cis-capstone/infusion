@@ -13,12 +13,12 @@
 			<p>
 				<!-- name -->
 				<br><label for="name">Name</label><br />
-				<input type="text" id="name" name="name" placeholder="Understand compliance drivers"/>
+				<input type="text" id="name" name="name" placeholder="Demonstrate Compliance story"/>
 				<br/>
 				
 				<!-- description -->
 				<br><label for="description">Description</label><br />
-				<g:textArea name="description" placeholder="If the business or its customers are subject to regulatory or compliance drivers such as FFIEC, GLBA, OCC, PCI DSS, SOX, HIPAA or others, the SSG acts as a focal point for understanding the constraints such drivers impose on software. In some cases, the SSG creates a unified approach that removes redundancy from overlapping compliance requirements. A formal approach will map applicable portions of regulations to control statements explaining how the organization complies. As an alternative, existing business processes run by legal or other risk and compliance groups outside the SSG may also serve as the regulatory focal point. The goal of this activity is to create one set of software security guidance so that compliance work is completed as efficiently as possible (mostly by removing duplicates). Some firms move on to guide exposure by becoming directly involved in standards groups in order to influence the regulatory environment." rows="5" cols="400"/>
+				<g:textArea name="description" placeholder="The SSG has the information regulators want. A combination of written policy, controls documentation, and artifacts gathered through the SSDL gives the SSG the ability to demonstrate the organization's compliance story without a fire drill for every audit. In some cases, regulators, auditors, and senior management are satisfied with the same kinds of reports, which may be generated directly from various tools." rows="5" cols="400"/>
 				<br/> 
 				
 				<!-- level -->				

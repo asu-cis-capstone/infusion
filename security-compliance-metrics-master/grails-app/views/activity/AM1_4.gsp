@@ -13,12 +13,12 @@
 			<p>
 				<!-- name -->
 				<br><label for="name">Name</label><br />
-				<input type="text" id="name" name="name" placeholder="Understand compliance drivers"/>
+				<input type="text" id="name" name="name" placeholder="understand the organizations history"/>
 				<br/>
 				
 				<!-- description -->
 				<br><label for="description">Description</label><br />
-				<g:textArea name="description" placeholder="If the business or its customers are subject to regulatory or compliance drivers such as FFIEC, GLBA, OCC, PCI DSS, SOX, HIPAA or others, the SSG acts as a focal point for understanding the constraints such drivers impose on software. In some cases, the SSG creates a unified approach that removes redundancy from overlapping compliance requirements. A formal approach will map applicable portions of regulations to control statements explaining how the organization complies. As an alternative, existing business processes run by legal or other risk and compliance groups outside the SSG may also serve as the regulatory focal point. The goal of this activity is to create one set of software security guidance so that compliance work is completed as efficiently as possible (mostly by removing duplicates). Some firms move on to guide exposure by becoming directly involved in standards groups in order to influence the regulatory environment." rows="5" cols="400"/>
+				<g:textArea name="description" placeholder="Collect and publish attack stories. In order to maximize the benefit from lessons that do not always come cheap, the SSG collects and publishes stories about attacks against the organization. Over time, this collection helps the organization understand its history. Both successful and unsuccessful attacks can be noteworthy. Discussing historical information about software attacks has the effect of grounding software security in the reality of a firm. This is particularly useful in training classes in order to counter a generic approach over-focused on top ten lists or irrelevant and outdated platform attacks. Hiding information about attacks from people building new systems does nothing to garner positive benefit from a negative happenstance." rows="5" cols="400"/>
 				<br/> 
 				
 				<!-- level -->				

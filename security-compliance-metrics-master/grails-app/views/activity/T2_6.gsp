@@ -13,12 +13,12 @@
 			<p>
 				<!-- name -->
 				<br><label for="name">Name</label><br />
-				<input type="text" id="name" name="name" placeholder="Understand compliance drivers"/>
+				<input type="text" id="name" name="name" placeholder="Ensure new hires enhance culture"/>
 				<br/>
 				
 				<!-- description -->
 				<br><label for="description">Description</label><br />
-				<g:textArea name="description" placeholder="If the business or its customers are subject to regulatory or compliance drivers such as FFIEC, GLBA, OCC, PCI DSS, SOX, HIPAA or others, the SSG acts as a focal point for understanding the constraints such drivers impose on software. In some cases, the SSG creates a unified approach that removes redundancy from overlapping compliance requirements. A formal approach will map applicable portions of regulations to control statements explaining how the organization complies. As an alternative, existing business processes run by legal or other risk and compliance groups outside the SSG may also serve as the regulatory focal point. The goal of this activity is to create one set of software security guidance so that compliance work is completed as efficiently as possible (mostly by removing duplicates). Some firms move on to guide exposure by becoming directly involved in standards groups in order to influence the regulatory environment." rows="5" cols="400"/>
+				<g:textArea name="description" placeholder="Include security resources in onboarding. The process for bringing new hires into the engineering organization requires a module on software security. The generic new hire process covers things like picking a good password and making sure people don't tail you into the building, but this is enhanced further to cover topics such as secure coding, the SSDL, and internal security resources. The objective is to ensure that new hires enhance the security culture. Turnover in engineering organizations is generally high. Though a generic onboarding module is useful, it does not take the place of a timely and more complete introductory software security course." rows="5" cols="400"/>
 				<br/> 
 				
 				<!-- level -->				

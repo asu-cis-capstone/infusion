@@ -32,7 +32,7 @@ a controller for each initiative(still unsure of this)
 				<!-- Description -->
 				<label for="description">Description:</label>
 				<!--  <textarea id="description" rows="400" cols="50" name="description" placeholder="Planning, assigning roles and responsibilities, identifying software security goals etc..."></textarea>	-->
-				<g:textArea name="description" placeholder="Planning, assigning roles and responsibilities, identifying software security goals etc..." rows="5" cols="400"/>	
+				<g:textArea name="description" placeholder="The overall goals for the Strategy and Metrics practice are transparency of expectations and accountability for results. Executive management must clarify organizational expectations for the SSDL so that everyone understands the importance of the initiative. In addition, executive management must set specific objectives for all SSDL stakeholders and ensure that specific individuals are made accountable for meeting those objectives." rows="5" cols="400"/>	
 			</p>
 			
 			<p class="save">
@@ -46,38 +46,38 @@ a controller for each initiative(still unsure of this)
 			<br />	
 			<p class="sh2"><b>Activity Links</b></p>
 			<br/>
-			<p><a href="../activity/CP1_1">CP1.1 - Unify Regulatory Pressures</a></p>
+			<p><a href="../activity/SM1_1">SM1.1 - Publish Process(roles,responsibilities,plan), envolve as necessary</a></p>
 			<br /> 
-			<p><a href="../activity/index"
-			>CP1.2 - Identify P11 obligations</a></p>
+			<p><a href="../activity/SM1_2"
+			>SM1.2 - CreateEvangelism role and perform internal marketing</a></p>
 			<br /> 
-			<p><a href="../activity/index"
-			>CP1.3 - Create a Policy</a></p>
+			<p><a href="../activity/SM1_3"
+			>SM1.3 - Educate executives</a></p>
 			<br /> 
-			<p><a href="../activity/index"
-			>CP2.1 - Identify P11 data Inventory</a></p>
+			<p><a href="../activity/SM1_4"
+			>SM1.4 - Identify gate locations, gather necessary artifacts </a></p>
 			<br /> 
-			<p><a href="../activity/index"
-			>CP2.2 - Require Security sign-off for compliance related risk</a></p>
+			<p><a href="../activity/SM1_6"
+			>SM1.6 - Require security sign-off</a></p>
 			<br /> 
-			<p><a href="../activity/index"
-			>CP2.3 - Implement and track controls for compliance</a></p>
+			<p><a href="../activity/SM2_1"
+			>SM2.1 - Publish data avout software security internally</a></p>
 			<br /> 
-			<p><a href="../activity/index"
-			>CP2.4 - Paper all vendor contracts with software security SLAs</a></p>
+			<p><a href="../activity/SM2_2"
+			>SM2.2 - Enforce gates with measurments and track exceptions</a></p>
 			<br /> 
-			<p><a href="../activity/index"
-			>CP2.5 - Promote executive awareness of compliance and privacy obligations</a></p>
+			<p><a href="../activity/SM2_3"
+			>SM2.3 - Create or grow a satelite</a></p>
 			<br /> 
-			<p><a href="../activity/index"
-			>CP3.1 - Create regulator eye-candy</a></p>
+			<p><a href="../activity/SM2_5"
+			>SM2.5 - Identify metrics and use them to drive budgets</a></p>
 			<br /> 
-			<p><a href="../activity/index"
-			>CP3.2 - Impose policy on vendors</a></p>
+			<p><a href="../activity/SM3_1"
+			>SM3.1 - Use an internal tracking application with portfolio view</a></p>
 			<br /> 
-			<p><a href="../activity/index"
-			>CP3.3 - Drive feedback from SSDL data back to policy</a></p>
-			<br /> 
+			<p><a href="../activity/SM3_2"
+			>SM3.2 - Run an external marketing program </a></p>
+			<br />  
 		</div>
 </body>
 </html>

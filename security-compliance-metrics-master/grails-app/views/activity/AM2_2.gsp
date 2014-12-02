@@ -13,12 +13,12 @@
 			<p>
 				<!-- name -->
 				<br><label for="name">Name</label><br />
-				<input type="text" id="name" name="name" placeholder="Understand compliance drivers"/>
+				<input type="text" id="name" name="name" placeholder="Understand technology-driven attacks"/>
 				<br/>
 				
 				<!-- description -->
 				<br><label for="description">Description</label><br />
-				<g:textArea name="description" placeholder="If the business or its customers are subject to regulatory or compliance drivers such as FFIEC, GLBA, OCC, PCI DSS, SOX, HIPAA or others, the SSG acts as a focal point for understanding the constraints such drivers impose on software. In some cases, the SSG creates a unified approach that removes redundancy from overlapping compliance requirements. A formal approach will map applicable portions of regulations to control statements explaining how the organization complies. As an alternative, existing business processes run by legal or other risk and compliance groups outside the SSG may also serve as the regulatory focal point. The goal of this activity is to create one set of software security guidance so that compliance work is completed as efficiently as possible (mostly by removing duplicates). Some firms move on to guide exposure by becoming directly involved in standards groups in order to influence the regulatory environment." rows="5" cols="400"/>
+				<g:textArea name="description" placeholder="Create technology-specific attack patterns. The SSG creates technology-specific attack patterns to capture knowledge about attacks that target particular technologies. For example, if the organizations web software relies on cutting-edge browser capabilities, the SSG could catalogue the quirks of all the popular browsers and how they might be exploited. Attack patterns directly related to the security frontier (currently mobile security and cloud security) may be useful. Simply republishing general guidelines (e.g., Ensure data are protected in transit) and adding "for mobile applications" on the end does not constitute technology-specific attack patterns." rows="5" cols="400"/>
 				<br/> 
 				
 				<!-- level -->				

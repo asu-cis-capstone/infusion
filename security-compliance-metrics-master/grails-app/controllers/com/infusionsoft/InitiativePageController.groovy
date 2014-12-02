@@ -8,6 +8,15 @@ class InitiativePageController {
 	def StrategyAndMetrics() {
 		render view: "StrategyAndMetrics"
 	}	
+	def Training() {
+		render view: "Training"
+	}
+	def AttackModels() {
+		render view: "AttackModels"
+	}
+	def ComplianceAndPolicy() {
+		render view: "ComplianceAndPolicy"
+	}
 	def SecurityTesting() {
 		render view: "SecurityTesting"
 	}

@@ -20,25 +20,25 @@ from here the user selects which Initiative they would like to view and edit
 			<p><a href="../InitiativePage/StrategyAndMetrics"
 			>Strategy and Metrics</a></p>
 			<br /> 
-			<p><a href="../InitiativePage/index"
+			<p><a href="../InitiativePage/ComplianceAndPolicy"
 			>Compliance and Policy</a></p>
 			<br /> 
-			<p><a href="../InitiativePage/index"
+			<p><a href="../InitiativePage/Training"
 			>Training</a></p>
 			<br /> 
-			<p><a href="../InitiativePage/index"
+			<p><a href="../InitiativePage/AttackModels"
 			>Attack Models</a></p>
 			<br /> 
-			<p><a href="../InitiativePage/index"
+			<p><a href="../InitiativePage/SecurityFeaturesAndDesign"
 			>Security Features and Design</a></p>
 			<br /> 
-			<p><a href="../InitiativePage/index"
+			<p><a href="../InitiativePage/StandardsAndRequirements"
 			>Standards and Requirements</a></p>
 			<br /> 
-			<p><a href="../InitiativePage/index"
+			<p><a href="../InitiativePage/ArchitectureAnalysis"
 			>Architecture Analysis</a></p>
 			<br /> 
-			<p><a href="../InitiativePage/index"
+			<p><a href="../InitiativePage/CodeReview"
 			>Code Review</a></p>
 			<br /> 
 			<p><a href="../InitiativePage/SecurityTesting"
