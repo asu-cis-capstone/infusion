@@ -29,4 +29,7 @@ class InitiativePageController {
 	def ConfigurationManagement() {
 		render view: "ConfigurationManagement"
 	}
+	def ArchitectureAnalysis() {
+		render view: "ArchitectureAnalysis"
+	}
 }

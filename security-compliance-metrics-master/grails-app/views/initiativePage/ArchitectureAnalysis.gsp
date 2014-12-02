@@ -48,28 +48,28 @@ a controller for each initiative(still unsure of this)
 			<p><a href="../activity/AA1_1">AA1.1 - Perform security feature review</a></p>
 			<br /> 
 			<p><a href="../activity/AA1_2"
-			>AA1_2 - Perform design review for high-risk applications</a></p>
+			>AA 1.2 - Perform design review for high-risk applications</a></p>
 			<br /> 
 			<p><a href="../activity/AA1_3"
-			>AA1_3 - Have SSG lead review efforts</a></p>
+			>AA 1.3 - Have SSG lead review efforts</a></p>
 			<br /> 
 			<p><a href="../activity/AA1_4"
-			>AA1_4 - Use a risk questionnaire to rank applications</a></p>
+			>AA 1.4 - Use a risk questionnaire to rank applications</a></p>
 			<br /> 
 			<p><a href="../activity/AA2_1"
-			>AA2_1 - Define and use AA process</a></p>
+			>AA 2.1 - Define and use AA process</a></p>
 			<br /> 
 			<p><a href="../activity/AA2_2"
-			>AA2_2 - Standardize architectural descriptions (including data flow)</a></p>
+			>AA 2.2 - Standardize architectural descriptions (including data flow)</a></p>
 			<br /> 
 			<p><a href="../activity/AA2_3"
-			>Make SSG available as AA resource or mentor</a></p>
+			>AA 2.3 - Make SSG available as AA resource or mentor</a></p>
 			<br /> 
 			<p><a href="../activity/AA3_1"
-			>Have software architects lead review efforts</a></p>
+			>AA 3.1 - Have software architects lead review efforts</a></p>
 			<br /> 
 			<p><a href="../activity/AA3_2"
-			>AA3.2 - Drive analysis results into standards architectural patterns </a></p>
+			>AA 3.2 - Drive analysis results into standards architectural patterns </a></p>
 			<br />
 		</div>
 </body>
