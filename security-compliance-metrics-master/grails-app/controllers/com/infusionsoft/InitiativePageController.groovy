@@ -32,4 +32,10 @@ class InitiativePageController {
 	def ArchitectureAnalysis() {
 		render view: "ArchitectureAnalysis"
 	}
+	def SecurityFeaturesAndDesign() {
+		render view: "SecurityFeaturesAndDesign"
+	}
+	def StandardsAndRequirements() {
+		render view: "StandardsAndRequirements"
+	}
 }

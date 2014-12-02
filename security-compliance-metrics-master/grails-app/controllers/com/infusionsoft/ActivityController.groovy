@@ -318,4 +318,59 @@ class ActivityController {
 	}
 	
 	
+	def SFD1_1() {
+		render view: "SFD1_1"
+	}
+	def SFD1_2() {
+		render view: "SFD1_2"
+	}
+	def SFD2_1() {
+		render view: "SFD2_1"
+	}
+	def SFD2_2() {
+		render view: "SFD2_2"
+	}
+	def SFD3_1() {
+		render view: "SFD3_1"
+	}
+	def SFD3_2() {
+		render view: "SFD3_2"
+	}
+	def SFD3_3() {
+		render view: "SFD3_3"
+	}
+	
+	
+	
+	def SR1_1() {
+		render view: "SR1_1"
+	}
+	def SR1_2() {
+		render view: "SR1_2"
+	}
+	def SR1_3() {
+		render view: "SR1_3"
+	}
+	def SR1_4() {
+		render view: "SR1_4"
+	}
+	def SR2_1() {
+		render view: "SR2_1"
+	}
+	def SR2_2() {
+		render view: "SR2_2"
+	}
+	def SR2_3() {
+		render view: "SR2_3"
+	}
+	def SR2_4() {
+		render view: "SR2_4"
+	}
+	def SR3_1() {
+		render view: "SR3_1"
+	}
+	def SR3_2() {
+		render view: "SR3_2"
+	}
+	
 }
