@@ -76,7 +76,7 @@ This is what our application looks like:
 - Modified HTML pages and added hyperlinks that allow user navigate between chart, initiatives and activity pages 
 
 #### Version 1.0
--Completed all HTML pages and linked all 124 pages up properly
--Tested every possible Hyperlink combination for possible failures
--Completed and uploaded version 1.0 test documents
--Planned Presentation and comitted to plans.
+- Completed all HTML pages and linked all 124 pages up properly
+- Tested every possible Hyperlink combination for possible failures
+- Completed and uploaded version 1.0 test documents
+- Planned Presentation and comitted to plans.
